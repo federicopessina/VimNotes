@@ -20,4 +20,3 @@ u - UNDO
 :w - WRITE on file
 :q - QUIT
 :q! - QUIT without saving
-
