@@ -13,6 +13,7 @@ w - go to start of the next WORD
 e - go to END of the current word or to END of the next word
 
 u - UNDO
+<CTRL - r> - REDO
 
 # Insert Mode
 
