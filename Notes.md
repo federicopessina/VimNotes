@@ -1,7 +1,7 @@
 # Normal Mode
 
 h - go to left \
-j - go to lower line \ 
+j - go to lower line \
 k - go to upper line \
 l - go to right \
 
@@ -12,7 +12,7 @@ L - go to LOW part of current page \
 w - go to start of the next WORD \
 e - go to END of the current word or to END of the next word \
 
-u - UNDO \ 
+u - UNDO \
 <CTRL - r> - REDO \
 
 # Insert Mode
