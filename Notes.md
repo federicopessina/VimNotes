@@ -21,7 +21,9 @@ w - go to start of the next WORD \
 b - go to start of the word BEFORE \
 e - go to END of the current word or to END of the next word \
 
-Y - YANK (copy) the full line
+Y - YANK (copy) the full line (= yy) \
+D - DELETE the rest of the line \
+C - CHANGE the rest of the line \
 
 u - UNDO \
 <CTRL - r> - REDO \
@@ -46,14 +48,13 @@ p - PASTE what is selected \
 c - CHANGE what is selected (delete + enter insert mode) \
 
 dd - DELETE the line \
-yy - YANK (copy) the line \
+yy - YANK (copy) the line (= Y) \
   p - PASTE the line below current line \ 
   P - PASTE the line above current line \
 cc - CHANGE the line (delete + enter insert mode) \
 
 D - DELETE the rest of the line (from cursor to right till end of line) \
 C - CHANGE the rest of the line (from cursor to right till end of line) \
-
 
 # Command Mode
 :w - WRITE on file \
